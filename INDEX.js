@@ -1,1 +1,0 @@
-alert('Ceci est une alerte en javasript')
